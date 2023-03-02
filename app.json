@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "STEDI App",
+    "slug": "stedi-app",
+    "extra": {
+      "eas": ""
+    },
+    "ios": {
+      "bundleIdentifier": "com.aforsberg.stediapp"
+    },
+    "android": {
+      "package": "com.aforsberg.stediapp"
+    }
+  }
+} 
